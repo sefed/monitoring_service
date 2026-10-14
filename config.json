@@ -1,0 +1,8 @@
+{
+  "interval_minutes": 60,
+  "news_db": "news.db",
+  "users_db": "users.db",
+  "output_file": "send_list.txt",
+  "parsers_dir": "parsers",
+  "log_file": "monitor.log"
+}
